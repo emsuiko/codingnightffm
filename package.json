@@ -1,0 +1,22 @@
+{
+    "name": "codingnightffm",
+    "version": "0.0.1",
+    "description": "website for codingnightffm hangout",
+    "dependencies": {},
+    "devDependencies": {
+        "fiddly": "^0.8.0"
+    },
+    "scripts": {
+        "build:demo": "fiddly"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emsuiko/codingnightffm.git"
+    },
+    "author": "Anett Gesierich",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/emsuiko/codingnightffm/issues"
+    },
+    "homepage": "https://github.com/emsuiko/codingnightffm#readme"
+}
