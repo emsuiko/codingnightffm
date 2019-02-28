@@ -1,4 +1,4 @@
-# What is codingnightffm?
+# What is codingnight&shy;ffm?
 
 We'll have a proper kick-off to discuss ideas for coding nights.  
 For now the **what** remains to be defined. 
