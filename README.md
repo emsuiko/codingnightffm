@@ -11,9 +11,12 @@ Welcome to our first #codingnightffm hangout! :)
 There's gonna be free wifi and drinks. And fellow coders to hang and chat with.
 
 Want to come? Since space is limited, please register by putting your name here (via pull request at [github](https://github.com/emsuiko/codingnightffm)):
+
 | name | contact info (twitter/mail) | project you'd like to work on (optional) |
 | --- | --- | --- |
 | Anett | [@emsuiko](https://twitter.com/emsuiko) | Blog with vuepress |
+| Felix | [@fleaz](https://twitter.com/fleaz_) | [CptHook](https://github.com/fleaz/CptHook) |
+
 
 # About this site
 * Logo from [OpenMoji](http://www.openmoji.org/library.html?group=hfg&emoji=F0063)
