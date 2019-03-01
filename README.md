@@ -15,7 +15,7 @@ Want to come? Since space is limited, please register by putting your name here 
 | name | contact info (twitter/mail) | project you'd like to work on (optional) |
 | --- | --- | --- |
 | Anett | [@emsuiko](https://twitter.com/emsuiko) | Blog with vuepress |
-| Felix | [@fleaz](https://twitter.com/fleaz_) | [CptHook](https://github.com/fleaz/CptHook) |
+| Felix | [@fleaz_](https://twitter.com/fleaz_) | [CptHook](https://github.com/fleaz/CptHook) |
 
 
 # About this site
