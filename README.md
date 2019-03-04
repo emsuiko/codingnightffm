@@ -4,7 +4,10 @@ We'll have a proper kick-off to discuss ideas for coding nights.
 For now the **what** remains to be defined. 
 
 # Hangout - Bring your own project
-We're gonna have a first casual hangout on **Thursday, March 7**. (Location will be announced.)  
+We're gonna have a first casual hangout on **Thursday, March 7**.  
+We'll meet at the offices of [codemonauts](https://codemonauts.com/), Güntherburgallee 19.  
+Doors open from 6.30pm, lights out around 10.30pm. You can join later, leave earlier… That's up to you.
+
 You're currently working on a project and don't want to code home alone?  
 Welcome to our first #codingnightffm hangout! :)  
 
