@@ -11,7 +11,7 @@ Doors open from 6.30pm, lights out around 10.30pm. You can join later, leave ear
 You're currently working on a project and don't want to code home alone?  
 Welcome to our first #codingnightffm hangout! :)  
 
-There's gonna be free wifi and drinks. And fellow coders to hang and chat with.
+There's gonna be free wifi, drinks and we may even put our trusty sandwich maker to work. Fellow coders to hang and chat with inclusive. ;)
 
 Want to come? Since space is limited, please register by putting your name here (via pull request at [github](https://github.com/emsuiko/codingnightffm)):
 
