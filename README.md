@@ -13,7 +13,7 @@ Welcome to our first #codingnightffm hangout! :)
 
 There's gonna be free wifi, drinks and we may even put our trusty sandwich maker to work. Fellow coders to hang and chat with inclusive. ;)
 
-Want to come? Since space is limited, please register by putting your name here (via pull request at [github](https://github.com/emsuiko/codingnightffm)):
+Want to come? Since space is limited, please register by putting your name here (via pull request at [github](https://github.com/emsuiko/codingnightffm/edit/master/README.md)):
 
 | name | contact info (twitter/mail) | project you'd like to work on (optional) |
 | --- | --- | --- |
