@@ -19,7 +19,7 @@ Want to come? Since space is limited, please register by putting your name here 
 | --- | --- | --- |
 | Anett | [@emsuiko](https://twitter.com/emsuiko) | Blog with vuepress |
 | Felix | [@fleaz_](https://twitter.com/fleaz_) | [CptHook](https://github.com/fleaz/CptHook) |
-| Victoria | [@vicbergquist](https://twitter.com/vicbergquist) | [VuePress Gallery](https://vuepress.gallery) & [Shapy](https://shapy.app)
+| Victoria | [@vicbergquist](https://twitter.com/vicbergquist) | [VuePress Gallery](https://vuepress.gallery) & [Shapy](https://shapy.app) |
 
 
 # About this site
