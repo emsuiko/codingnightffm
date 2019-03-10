@@ -27,6 +27,7 @@ I'd like to thank [codemonauts](http://codemonauts.com) for initial and continou
 If you like to support #codingnightffm by hosting, organizing, financing or otherwise, please get in touch. :)
 
 Further thanks extended to:
+- [Victoria](https://twitter.com/vicbergquist) :heart: :cookie: 
 - [Hendrik](https://twitter.com/hputzek) :moneybag:
 
 # About this site
