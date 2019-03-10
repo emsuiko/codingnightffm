@@ -22,6 +22,12 @@ Want to come? Since space is limited, please register by putting your name here 
 | Victoria | [@vicbergquist](https://twitter.com/vicbergquist) | [VuePress Gallery](https://vuepress.gallery) & [Shapy](https://shapy.app) |
 | Hendrik | [@hputzek](https://twitter.com/hputzek) | [Pixelcrasher](https://twitter.com/hputzek/status/1100443245291675649) |
 
+# Support
+I'd like to thank [codemonauts](http://codemonauts.com) for initial and continouous support of #codingnightffm.  
+If you like to support #codingnightffm by hosting, organizing, financing or otherwise, please get in touch. :)
+
+Further thanks extended to:
+- [Hendrick](https://twitter.com/hputzek) :moneybag:
 
 # About this site
 * Logo from [OpenMoji](http://www.openmoji.org/library.html?group=hfg&emoji=F0063)
