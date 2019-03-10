@@ -27,7 +27,7 @@ I'd like to thank [codemonauts](http://codemonauts.com) for initial and continou
 If you like to support #codingnightffm by hosting, organizing, financing or otherwise, please get in touch. :)
 
 Further thanks extended to:
-- [Hendrick](https://twitter.com/hputzek) :moneybag:
+- [Hendrik](https://twitter.com/hputzek) :moneybag:
 
 # About this site
 * Logo from [OpenMoji](http://www.openmoji.org/library.html?group=hfg&emoji=F0063)
