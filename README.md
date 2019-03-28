@@ -18,6 +18,7 @@ Want to come? Since space is limited, please register by putting your name here 
 | name | contact info (twitter/mail) | project you'd like to work on (optional) |
 | --- | --- | --- |
 | Anett | [@emsuiko](https://twitter.com/emsuiko) | OpenSplit |
+| Alex | [@ahus1de](https://twitter.com/ahus1de) | Vue, Nuxt <br> Up for pair-programming almost anything. |
 
 You can drop by unannounced, a heads up is appreciated though.  
 
