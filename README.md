@@ -4,22 +4,30 @@ We'll have a proper kick-off to discuss ideas for coding nights.
 For now the **what** remains to be defined. 
 
 # Hangout - Bring your own project
-We're gonna have a first casual hangout on **Thursday, March 7**.  
-We'll meet at the offices of [codemonauts](https://codemonauts.com/), Güntherburgallee 19.  
-Doors open from 6.30pm, lights out around 10.30pm. You can join later, leave earlier… That's up to you.
+You're currently working on a project and don't want to code home alone? Welcome to #codingnightffm hangouts! :)  
 
-You're currently working on a project and don't want to code home alone?  
-Welcome to our first #codingnightffm hangout! :)  
+Our next hangout will be on **Friday, April 26th**.  
+We'll meet at the offices of [codemonauts](https://codemonauts.com/), Günthersburgallee 19.  
+Doors open from 6pm, you can join later of course. That's up to you. :)
 
-There's gonna be free wifi, drinks and we may even put our trusty sandwich maker to work. Fellow coders to hang and chat with inclusive. ;)
+There's gonna be free wifi and drinks, fellow coders to hang and chat with inclusive. ;)  
+We can order in or grab a bite at the market on Friedberger Platz.
 
-Want to come? Since space is limited, please register by putting your name here (via pull request at [github](https://github.com/emsuiko/codingnightffm/edit/master/README.md)):
+Want to come? Since space is limited, please register by putting your name here (via pull request at [github](https://github.com/emsuiko/codingnightffm/edit/master/README.md)).  
+(You can drop by unannounced of course, a heads-up is appreciated though.)  
 
 | name | contact info (twitter/mail) | project you'd like to work on (optional) |
 | --- | --- | --- |
-| Anett | [@emsuiko](https://twitter.com/emsuiko) | Blog with vuepress |
-| Felix | [@fleaz_](https://twitter.com/fleaz_) | [CptHook](https://github.com/fleaz/CptHook) |
+| Anett | [@emsuiko](https://twitter.com/emsuiko) | OpenSplit |
 
+
+# Support
+I'd like to thank [codemonauts](http://codemonauts.com) for initial and continouous support of #codingnightffm.  
+If you like to support #codingnightffm by hosting, organizing, financing or otherwise, please get in touch. :)
+
+Further thanks extended to:
+- [Victoria](https://twitter.com/vicbergquist) :heart: :cookie: 
+- [Hendrik](https://twitter.com/hputzek) :moneybag:
 
 # About this site
 * Logo from [OpenMoji](http://www.openmoji.org/library.html?group=hfg&emoji=F0063)
