@@ -19,6 +19,7 @@ Want to come? Since space is limited, please register by putting your name here 
 | name | contact info (twitter/mail) | project you'd like to work on (optional) |
 | --- | --- | --- |
 | Anett | [@emsuiko](https://twitter.com/emsuiko) | OpenSplit |
+| Victoria | [@vicbergquist](https://twitter.com/vicbergquist) | Shapy & VuePress |
 
 
 # Support
