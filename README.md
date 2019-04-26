@@ -22,6 +22,7 @@ Want to come? Since space is limited, please register by putting your name here 
 | Anett    | [@emsuiko](https://twitter.com/emsuiko)           | OpenSplit                                |
 | Victoria | [@vicbergquist](https://twitter.com/vicbergquist) | Shapy & VuePress                         |
 | Flozi    | [@flowzow](https://twitter.com/FloWzoW)           | crypto-currency explorer in react.js     |
+| Marc     | [@marckluesener](https://twitter.com/MarcKluesener) |  |
 
 # Support
 
