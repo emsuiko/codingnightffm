@@ -34,6 +34,11 @@ Further thanks extended to:
 - [Victoria](https://twitter.com/vicbergquist) :heart: :cookie:
 - [Hendrik](https://twitter.com/hputzek) :moneybag:
 
+# Contact
+
+[twitter](https://twitter.com/codingnightffm) &middot; [mail](mailto:anett@codemonauts.com)
+
+
 # About this site
 
 - Logo from [OpenMoji](http://www.openmoji.org/library.html?group=hfg&emoji=F0063)
