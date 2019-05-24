@@ -19,6 +19,7 @@ Want to come? Since space is limited, please give a heads-up or even register by
 | name     | contact info (twitter/mail)                       | project you'd like to work on (optional) |
 | -------- | ------------------------------------------------- | ---------------------------------------- |
 | Anett    | [@emsuiko](https://twitter.com/emsuiko)           | OpenSplit                                |
+| Niko     | [@amokleben](https://twitter.com/amokleben)       | Learning Rust with the [book](https://doc.rust-lang.org/book/index.html) |
 
 # Support
 
