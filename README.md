@@ -7,20 +7,6 @@ For now the **what** remains to be defined.
 
 You're currently working on a project and don't want to code home alone? Welcome to #codingnightffm hangouts! :)
 
-Our next hangout will be on **Friday, May 24th**.  
-We'll meet at the offices of [codemonauts](https://codemonauts.com/), Günthersburgallee 19.  
-Doors open from 6pm, you can join later of course. That's up to you. :)
-
-There's gonna be free wifi and drinks, fellow coders to hang and chat with inclusive. ;)  
-We can order in or grab a bite at the market on Friedberger Platz.
-
-Want to come? Since space is limited, please give a heads-up or even register by putting your name here (via pull request at [github](https://github.com/emsuiko/codingnightffm/edit/master/README.md)).
-
-| name     | contact info (twitter/mail)                       | project you'd like to work on (optional) |
-| -------- | ------------------------------------------------- | ---------------------------------------- |
-| Anett    | [@emsuiko](https://twitter.com/emsuiko)           | OpenSplit                                |
-| Niko     | [@amokleben](https://twitter.com/amokleben)       | Learning Rust with the [book](https://doc.rust-lang.org/book/index.html) |
-
 # Support
 
 I'd like to thank [codemonauts](http://codemonauts.com) for initial and continouous support of #codingnightffm.  
